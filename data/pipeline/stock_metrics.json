@@ -1,0 +1,130 @@
+{
+  "latest_date": "2026-07-20",
+  "window_start": "2026-06-09",
+  "metrics": {
+    "BID": {
+      "return_30d": -9.05,
+      "volatility": 1.52,
+      "trend": "Giảm",
+      "slope_pct": -0.212,
+      "volume_trend_pct": -2.9,
+      "last_close": 37.0,
+      "n_days": 30,
+      "score": -12.81
+    },
+    "FPT": {
+      "return_30d": -8.96,
+      "volatility": 1.44,
+      "trend": "Giảm",
+      "slope_pct": -0.227,
+      "volume_trend_pct": 24.0,
+      "last_close": 67.1,
+      "n_days": 30,
+      "score": -12.68
+    },
+    "HPG": {
+      "return_30d": -12.53,
+      "volatility": 1.63,
+      "trend": "Giảm",
+      "slope_pct": -0.279,
+      "volume_trend_pct": 41.1,
+      "last_close": 20.6,
+      "n_days": 30,
+      "score": -16.34
+    },
+    "MBB": {
+      "return_30d": -3.8,
+      "volatility": 1.27,
+      "trend": "Sideway",
+      "slope_pct": 0.045,
+      "volume_trend_pct": 10.3,
+      "last_close": 22.8,
+      "n_days": 30,
+      "score": -4.43
+    },
+    "MSN": {
+      "return_30d": -10.5,
+      "volatility": 1.2,
+      "trend": "Giảm",
+      "slope_pct": -0.261,
+      "volume_trend_pct": 11.9,
+      "last_close": 64.8,
+      "n_days": 30,
+      "score": -14.1
+    },
+    "TCB": {
+      "return_30d": -3.07,
+      "volatility": 1.69,
+      "trend": "Sideway",
+      "slope_pct": 0.125,
+      "volume_trend_pct": 6.3,
+      "last_close": 29.95,
+      "n_days": 30,
+      "score": -3.92
+    },
+    "VCB": {
+      "return_30d": -7.8,
+      "volatility": 1.01,
+      "trend": "Giảm",
+      "slope_pct": -0.168,
+      "volume_trend_pct": 11.6,
+      "last_close": 56.7,
+      "n_days": 30,
+      "score": -11.3
+    },
+    "VHM": {
+      "return_30d": -2.63,
+      "volatility": 2.87,
+      "trend": "Tăng",
+      "slope_pct": 0.155,
+      "volume_trend_pct": -11.5,
+      "last_close": 136.9,
+      "n_days": 30,
+      "score": -1.06
+    },
+    "VIC": {
+      "return_30d": 13.87,
+      "volatility": 2.41,
+      "trend": "Tăng",
+      "slope_pct": 0.461,
+      "volume_trend_pct": 8.8,
+      "last_close": 220.0,
+      "n_days": 30,
+      "score": 15.66
+    },
+    "VNM": {
+      "return_30d": 3.63,
+      "volatility": 1.3,
+      "trend": "Sideway",
+      "slope_pct": -0.044,
+      "volume_trend_pct": 38.6,
+      "last_close": 58.5,
+      "n_days": 30,
+      "score": 2.98
+    }
+  },
+  "ranked": [
+    "VIC",
+    "VNM",
+    "VHM",
+    "TCB",
+    "MBB",
+    "VCB",
+    "FPT",
+    "BID",
+    "MSN",
+    "HPG"
+  ],
+  "classification": {
+    "VIC": "Nên xem xét",
+    "VNM": "Nên xem xét",
+    "VHM": "Nên xem xét",
+    "TCB": "Theo dõi thêm",
+    "MBB": "Theo dõi thêm",
+    "VCB": "Theo dõi thêm",
+    "FPT": "Theo dõi thêm",
+    "BID": "Tránh / chờ",
+    "MSN": "Tránh / chờ",
+    "HPG": "Tránh / chờ"
+  }
+}
